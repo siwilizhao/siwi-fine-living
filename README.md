@@ -5,7 +5,7 @@
 
 # Siwi Fine Lifing 是什么
 
-> 思微精致生活分享技术对生活的改变
+> Just Fine Lifing
 
 
 # Siwi Fine Lifing 这个项目要做什么
